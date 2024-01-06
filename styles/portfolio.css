@@ -18,3 +18,27 @@ nav {
      font-weight:800 ;
 
 }
+.text-primary{
+
+    color: #FD6E0A;
+}
+.btn-primary{
+    border-radius: 5px;
+    color: #FD6E0A;
+    
+}
+nav >ul{
+
+    display: flex;
+}
+nav li{
+
+    list-style: none;
+    margin-right: 50px;
+}
+
+nav a {
+
+    text-decoration: none;
+    color: #474747;
+}
